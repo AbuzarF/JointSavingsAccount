@@ -8,7 +8,7 @@ Smart contract has been compiled and deployed. Following images is being presenn
 
 [Deposit2](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit2.png)
 
-[Deposit3](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit2.png)
+[Deposit3](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit3.png)
 
 [Withdraw1](https://github.com/AbuzarF/JointSavingsAccount/blob/main/withdraw1.png)
 
