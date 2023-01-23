@@ -4,15 +4,15 @@ To automate the creation of joint savings accounts for the financial institution
 
 Smart contract has been compiled and deployed. Following images is being presennted as an evidence:
 
-[Deposit1](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit1.png)
+[Deposit1 Account1](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit1.png)
 
-[Deposit2](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit2.png)
+[Deposit2 Account1](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit2.png)
 
-[Deposit3](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit3.png)
+[Deposit3 Account1](https://github.com/AbuzarF/JointSavingsAccount/blob/main/deposit3.png)
 
-[Withdraw1](https://github.com/AbuzarF/JointSavingsAccount/blob/main/withdraw1.png)
+[Withdraw1 Account1](https://github.com/AbuzarF/JointSavingsAccount/blob/main/withdraw1.png)
 
-[Withdraw2](https://github.com/AbuzarF/JointSavingsAccount/blob/main/withdrawl2.png)
+[Withdraw2 Account2](https://github.com/AbuzarF/JointSavingsAccount/blob/main/withdrawl2.png)
 
 [Last2](https://github.com/AbuzarF/JointSavingsAccount/blob/main/last2.png)
 
